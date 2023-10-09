@@ -55,6 +55,7 @@
 		1B4475F12AD2AE5B002B8AEE /* knowledgeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = knowledgeUITests.m; sourceTree = "<group>"; };
 		1B4475F32AD2AE5B002B8AEE /* knowledgeUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = knowledgeUITestsLaunchTests.m; sourceTree = "<group>"; };
 		1B4476002AD2AE76002B8AEE /* knowledge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = knowledge.h; sourceTree = "<group>"; };
+		1BB549F12AD3DEB10060A8B5 /* socket_im.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = socket_im.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +106,7 @@
 		1B4475CA2AD2AE59002B8AEE /* knowledge */ = {
 			isa = PBXGroup;
 			children = (
+				1BB549F12AD3DEB10060A8B5 /* socket_im.h */,
 				1B4476002AD2AE76002B8AEE /* knowledge.h */,
 				1B4475CB2AD2AE59002B8AEE /* AppDelegate.h */,
 				1B4475CC2AD2AE59002B8AEE /* AppDelegate.m */,
