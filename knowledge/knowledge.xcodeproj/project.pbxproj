@@ -64,6 +64,8 @@
 		1BBE4B192AD8DEB800A5D5E8 /* 腾讯云调试.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "腾讯云调试.h"; sourceTree = "<group>"; };
 		1BBE4B1A2AD8DF0200A5D5E8 /* 符号表上传.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "符号表上传.h"; sourceTree = "<group>"; };
 		1BBE4B1B2AD8DF3C00A5D5E8 /* 工具网站.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "工具网站.h"; sourceTree = "<group>"; };
+		1BBE4B1C2AD9421700A5D5E8 /* 知识体系.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "知识体系.h"; sourceTree = "<group>"; };
+		1BBE4B1D2AD9425F00A5D5E8 /* socket相关.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "socket相关.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,8 @@
 				1BBE4B192AD8DEB800A5D5E8 /* 腾讯云调试.h */,
 				1BBE4B1A2AD8DF0200A5D5E8 /* 符号表上传.h */,
 				1BBE4B1B2AD8DF3C00A5D5E8 /* 工具网站.h */,
+				1BBE4B1C2AD9421700A5D5E8 /* 知识体系.h */,
+				1BBE4B1D2AD9425F00A5D5E8 /* socket相关.h */,
 			);
 			path = knowledge;
 			sourceTree = "<group>";
